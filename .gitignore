@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# dataset
+coco/
+train2017/
+val2017/
+annotations/
+
+# output
+output/
+checkpoints/
+
+# env
+.env
+.conda
+env/
+
+# vscode
+.vscode/
