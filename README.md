@@ -46,6 +46,8 @@ D:/Praktikum_DJi/
 ├── output/
 ├── week1/
 ├── week2/
+├── week3/
+
 ```
 
 ---

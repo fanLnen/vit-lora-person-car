@@ -1,0 +1,20 @@
+Epoch 1/5 | Mode: multilabel
+Train Loss: 0.1951 | Train Acc: 0.9128 | Train Precision: 0.9307 | Train Recall: 0.9131 | Train F1: 0.9218
+Val   Loss: 0.1289 | Val   Acc: 0.9475 | Val   Precision: 0.9493 | Val   Recall: 0.9579 | Val   F1: 0.9536
+----------------------------------------------------------------------------------------------------
+Epoch 2/5 | Mode: multilabel
+Train Loss: 0.1214 | Train Acc: 0.9497 | Train Precision: 0.9602 | Train Recall: 0.9500 | Train F1: 0.9551
+Val   Loss: 0.1264 | Val   Acc: 0.9475 | Val   Precision: 0.9491 | Val   Recall: 0.9582 | Val   F1: 0.9536
+----------------------------------------------------------------------------------------------------
+Epoch 3/5 | Mode: multilabel
+Train Loss: 0.1086 | Train Acc: 0.9554 | Train Precision: 0.9658 | Train Recall: 0.9547 | Train F1: 0.9602
+Val   Loss: 0.1242 | Val   Acc: 0.9474 | Val   Precision: 0.9502 | Val   Recall: 0.9566 | Val   F1: 0.9534
+----------------------------------------------------------------------------------------------------
+Epoch 4/5 | Mode: multilabel
+Train Loss: 0.0980 | Train Acc: 0.9601 | Train Precision: 0.9697 | Train Recall: 0.9591 | Train F1: 0.9644
+Val   Loss: 0.1221 | Val   Acc: 0.9491 | Val   Precision: 0.9559 | Val   Recall: 0.9535 | Val   F1: 0.9547
+----------------------------------------------------------------------------------------------------
+Epoch 5/5 | Mode: multilabel
+Train Loss: 0.0916 | Train Acc: 0.9634 | Train Precision: 0.9725 | Train Recall: 0.9622 | Train F1: 0.9673
+Val   Loss: 0.1230 | Val   Acc: 0.9495 | Val   Precision: 0.9571 | Val   Recall: 0.9529 | Val   F1: 0.9550
+----------------------------------------------------------------------------------------------------
